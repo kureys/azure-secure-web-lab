@@ -125,8 +125,4 @@ as billing data is updated.
 - Diagnostic logs and alerts help investigate access failures.
 - Stopping a VM does not eliminate all associated resource costs.
 
-## 11. Security Notice
 
-This repository must not contain access tokens, passwords,
-SAS tokens, private keys, customer data, or sensitive
-subscription identifiers.
